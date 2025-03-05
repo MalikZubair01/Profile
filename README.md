@@ -1,5 +1,6 @@
 # Portfolio of Malik Zubair
 # contact +923099734471
+# malikzubairmaqsood@gmail.com
 
  
 This project was created with CRA (Create React App)
